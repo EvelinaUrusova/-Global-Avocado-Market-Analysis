@@ -8,4 +8,4 @@ Forecast Insights from Novice to Advanced Forecasting Models
 TBATS модель выдает наиболее точные результаты, поскольку включает нелинейные тренды. При проведении кросс-валидации TBATS снова одерживает победу. 
 
 ## Использованные технологии
-python, pandas, numpy, seaborn, matplotlib, sktime, NaiveForecaster, ThetaForecaster, TBATS, ExponentialSmoothing
+python, pandas, numpy, seaborn, matplotlib, sktime, NaiveForecaster, ThetaForecaster, TBATS, ExponentialSmoothing, SlidingWindowSplitter, EnsembleForecaster
