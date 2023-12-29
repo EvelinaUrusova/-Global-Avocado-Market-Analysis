@@ -9,3 +9,7 @@ TBATS модель выдает наиболее точные результат
 
 ## Использованные технологии
 python, pandas, numpy, seaborn, matplotlib, sktime, NaiveForecaster, ThetaForecaster, TBATS, ExponentialSmoothing, SlidingWindowSplitter, EnsembleForecaster
+
+## Ссылка на проект:
+[View Global Avocado Market Analysis Notebook](./Time_Series_2.ipynb)
+
